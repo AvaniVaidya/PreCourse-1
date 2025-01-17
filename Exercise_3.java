@@ -1,5 +1,9 @@
 // Java program to implement
 // a Singly Linked List
+// Time Complexity : Insert: O(n).
+// Space Complexity : O(n) - To store n stack elements.
+// Did this code successfully run on Leetcode : Did not find the problem on leetcode.
+// Any problem you faced while coding this : No.
 class LinkedList {
 
     static Node head; // head of list
